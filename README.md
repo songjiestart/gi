@@ -1,2 +1,0 @@
-#git_tes
-#qqqtee
