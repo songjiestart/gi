@@ -21,9 +21,17 @@ public class DoorController {
         System.out.println("开始验证");
         System.out.println("开始验证2019-1");
         System.out.println("开始验证2019-1");
+        System.out.println("开始验证asdfdf019-1");
+        System.out.println("开始验sadfdf19-1");
         System.out.println("开始验证2019-1");
+        System.out.println("开始验sdfadf9-1");
         System.out.println("开始验证2019-1");
+        System.out.println("开始验sdfadsf019-1");
+        System.out.println("开始验证sdfa-1");
         System.out.println("开始验证2019-1");
+        System.out.println("开始验证sdf证2019-1");
+        System.out.println("开始sdfasdf019-1");
+        System.out.println("开始sdfa019-1");
         System.out.println("开始验证2019-1");
         System.out.println("开始验证2019-1");
         return "success";
