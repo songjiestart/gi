@@ -18,6 +18,7 @@ public class DoorController {
     @RequestMapping("/success")
     public String success(){
         logger.info("logger in success!");
+        System.out.println("开始验证");
         return "success";
     }
 
