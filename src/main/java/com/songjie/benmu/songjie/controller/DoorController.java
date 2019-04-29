@@ -32,7 +32,18 @@ public class DoorController {
         System.out.println("开始验证");
         System.out.println("开始验证2019-1");
         System.out.println("开始验证2019-1");
-        System.out.println("开始验证2019-1");
+        System.out.println("开sdfasdfaf");
+        System.out.println("开sdfasdfdaf");
+        System.out.println("开sdfasdfdaf");
+        System.out.println("开sdfasdfdaf");
+        System.out.println("开sdfasdfdaf");
+        System.out.println("开sdfasdfdaf");
+        System.out.println("开sdfasdfdaf");//sdf
+        System.out.println("开sdfasdfdaf");
+        System.out.println("开sdfasdfdaf");
+        System.out.println("开sdfasdfdaf");
+        System.out.println("开sdfadf");
+        System.out.println("开adsfadsfasdfsdf");
         System.out.println("开始验证2019-1");
         System.out.println("开始验证2019-1");
         System.out.println("开始验证2019-1");
