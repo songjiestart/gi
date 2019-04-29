@@ -37,6 +37,15 @@ public class DoorController {
         System.out.println("开始验证2019-1");
         System.out.println("开始验证2019-1");
         System.out.println("开始验证2019-1");
+        ArrayList<Object> objects = new ArrayList<>();
+        objects.add(new StringBuffer("ad"));
+        objects.add(new Object());
+        objects.add(new DoorController());
+        objects.stream().forEach(o -> {
+            System.out.println(o);
+            System.out.println(o+"123");
+
+        });
         return "success";
     }
 
